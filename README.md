@@ -2,7 +2,6 @@
 
 ---
 
-![GitHub contributors](https://img.shields.io/github/contributors/Lameck1/micro-reddit)
 ![GitHub forks](https://img.shields.io/github/forks/Lameck1/micro-reddit)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Lameck1/micro-reddit)
 ![GitHub issues](https://img.shields.io/github/issues-raw/Lameck1/micro-reddit)
@@ -17,7 +16,7 @@
 * [Getting Started](#getting-started)
 * [Prerequisites](#prerequisites)
 * [Contributing](#contributing)
-* [Author](#author)
+* [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
 ## About Project
@@ -98,7 +97,7 @@ Feel free to check the [issues page](https://github.com/Lameck1/micro-reddit/iss
 
 ## Acknowledgements
 
-Credits go to the following who did the design of this project
+Credits go to the following for providing guides on Ruby on Rails
   - [**Rails Guides**:](https://guides.rubyonrails.org/active_record_basics.html)
 
 ## Show your support
