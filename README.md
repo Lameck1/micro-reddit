@@ -92,8 +92,8 @@ Feel free to check the [issues page](https://github.com/Lameck1/micro-reddit/iss
 
 👤 **Delice Lydia**
   - GitHub: [@githubhandle](https://github.com/DeliceLydia)
-  - Twitter: [@twitterhandle](https://twitter.com/lameck721)
-  - LinkedIn: [LinkedIn](https://twitter.com/IngabireLydia3)
+  - Twitter: [@twitterhandle](https://twitter.com/IngabireLydia3)
+  - LinkedIn: [LinkedIn](linkedin.com/in/delice-lydia/)
 
 ## Acknowledgements
 
